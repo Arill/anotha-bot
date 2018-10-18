@@ -1,5 +1,7 @@
-{
+"scripts": {
   "start": "node bot.js",
+  },
+{
   "name": "anotha-bot",
   "version": "1.0.0",
   "description": "WE THE BEST",
