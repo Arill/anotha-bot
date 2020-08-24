@@ -313,7 +313,8 @@
     "取込／共有": "Snapshot/Share",
     "バックアップ": "Back-ups",
 
-    "現在の編成で新規登録": "Save current setup",
+    "現在の編成で新規登録": "Save current setup as new",
+    "保存": "Overwrite",
     "編成名": "Setup name",
     "編成プリセット名を入力": "Enter the setup name",
     "編成メモ": "Setup description",
